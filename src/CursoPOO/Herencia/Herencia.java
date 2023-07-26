@@ -8,6 +8,6 @@ public class Herencia {
         emp1.getId_empleado();
         emp1.getNombre();
 
-        System.out.println("Pruebaaaa"); 
+        System.out.println("No tengo idea"); 
     }
 }
