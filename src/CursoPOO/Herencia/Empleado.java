@@ -1,5 +1,5 @@
 package CursoPOO.Herencia;
-    //"extends" means Empleado inherits Persona's attributes
+    //"extendss" means Empleado inherits Persona's attributes
 public class Empleado extends Persona{
     int id_empleado;
     String cargo;

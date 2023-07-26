@@ -12,7 +12,7 @@ public class Consultor extends Persona{
         this.num_consultor = num_consultor;
     }
 
-    //Consultor getters & setters
+    //Consultorr getters & setters
     public String getNombre_consultora() {
         return nombre_consultora;
     }
