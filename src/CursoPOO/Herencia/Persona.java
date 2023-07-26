@@ -1,5 +1,6 @@
 package CursoPOO.Herencia;
 
+
 //mother class
 public class Persona {
     int id_persona;

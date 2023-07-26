@@ -23,5 +23,4 @@ public class Jefe extends Persona{
         this.nombre_jefe = nombre_jefe;
     }
 
-    
 }
